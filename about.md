@@ -8,7 +8,7 @@ I'm founder of [SEO Master](http://www.seomaster.com.br), one of the first SEO a
 
 ### More Information
 
-The purpose of this blog is to share experiences from my professional carrer related to enterpreneurship, software development and digital marketing.
+The purpose of this blog is to share experiences from my professional career related to enterpreneurship, software development and digital marketing.
 
 ### Contact me
 
