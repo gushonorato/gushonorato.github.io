@@ -4,13 +4,10 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  <p class="metadata">{{page.date | date: "%B %e, %Y" }} | <img src="{{site.url}}/images/{{page.language}}.png" alt="Flag"> {{page.language}}</p>
 
   <div class="entry">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}

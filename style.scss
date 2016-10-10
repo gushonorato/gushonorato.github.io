@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 940px;
   padding: 0 10px;
   width: 100%;
 }
@@ -195,7 +195,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: black;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -252,6 +252,22 @@ nav {
 }
 
 .post {
+
+  h1 {
+    margin-bottom: 0;
+  }
+
+  .metadata {
+    font-size: 15px;
+    color: gray;
+    margin-top: 0;
+    margin: 0 0 20px 0;
+    line-height: 15px;
+    img {
+      vertical-align: middle;
+    }
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;

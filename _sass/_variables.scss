@@ -14,14 +14,15 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,800';
+
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$helvetica: 'Open Sans', sans-serif;
+$helveticaNeue: 'Open Sans', sans-serif;
+$georgia: 'Open Sans', sans-serif;
 
-@import 'https://fonts.googleapis.com/css?family=Open+Sans';
 
-font-family: 'Open Sans', sans-serif;
+
 
 // Mobile breakpoints
 @mixin mobile {

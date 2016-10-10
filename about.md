@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Founder of [SEO Master](http://www.seomaster.com.br), one of the first SEO agencies in Brazil. I like to describe myself as a developer with a great background in business, entrepreneurship and digital marketing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+The purpose of this blog is to share experiences of my professional carrer in enterpreneurship, software development and digital marketing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+gustavohonorato at gmail dot com
+
+You can also find me on all social networks listed below.
