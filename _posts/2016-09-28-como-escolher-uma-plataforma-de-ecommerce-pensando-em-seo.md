@@ -10,8 +10,9 @@ Por se tratar de um assunto extenso, compilei também cada um dos critérios em 
 
 Confira o vídeo abaixo:
 
-
-<iframe width="920" height="507" src="https://www.youtube.com/embed/O15ZEV7sCmo?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/O15ZEV7sCmo?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 **E você? Já aplicou a checklist na sua plataforma? Qual foi o resutado obtido? Compartilhe conosco a sua experiência!**
